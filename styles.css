@@ -5,15 +5,7 @@
    box-sizing: border-box;
 }
 
-/* Stilizare generală */
-body {
-   font-family: Arial, sans-serif;
-   line-height: 1.6;
-   background-color: #f4f4f4;
-   color: #335;
-   margin: 0;
-   padding: 0;
-}
+
 
 header {
    background: #333;
